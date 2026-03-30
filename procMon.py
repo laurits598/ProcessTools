@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # requirements:
 # pip install textual psutil
 
