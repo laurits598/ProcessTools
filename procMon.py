@@ -14,7 +14,7 @@ import requests
 import os
 
 
-API_KEY = "6a39523a8dc3314d773b74d7ed1cdca9f2901503445e3bdd6707aa12a903cf373f6a2115a7b1c20b"
+API_KEY = "ABUSEIP_API_KEY"
 
 class ConnectionMonitor(App):
     CSS = """
